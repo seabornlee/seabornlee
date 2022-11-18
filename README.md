@@ -9,7 +9,8 @@
 
 - 🔭 I’m currently working on [AlphaWallet](https://github.com/AlphaWallet/alpha-wallet-android)
 
-- 🌱 I’m currently learning **MIT Finance MicroMaster.**
+- 🌱 I’m currently learning [MIT MicroMasters Program in
+Finance](https://micromasters.mit.edu/fin/)
 
 - 📝 I regularly write articles on [https://timeline.seabornlee.cn](https://timeline.seabornlee.cn)
 

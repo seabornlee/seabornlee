@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/seabornli" target="blank"><img src="https://img.shields.io/twitter/follow/seabornli?logo=twitter&style=for-the-badge" alt="seabornli" /></a> </p>
 
-- 🔭 I’m currently working on [AlphaWallet](https://github.com/AlphaWallet/alpha-wallet-android)
+- 🔭 I’m currently working at [Luca Community](https://github.com/luca-community)
 
 - 🌱 I’m currently learning [MIT MicroMasters Program in
 Finance](https://micromasters.mit.edu/fin/)

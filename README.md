@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seaborn</h1>
+<h1 align="center">Hi 👋, I'm Water</h1>
 <h3 align="center">A passionate full stack developer in Web3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seabornlee&label=Profile%20views&color=0e75b6&style=flat" alt="seabornlee" /> </p>
@@ -12,9 +12,9 @@
 - 🌱 I’m currently learning [MIT MicroMasters Program in
 Finance](https://micromasters.mit.edu/fin/)
 
-- 📝 I regularly write articles on [https://timeline.seabornlee.cn](https://timeline.seabornlee.cn)
+- 📝 I regularly write articles on [https://timeline.waterlee.site](https://timeline.waterlee.site)
 
-- 📫 How to reach me **gtd.eth@mail3.com**
+- 📫 How to reach me **waterlee.site@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/seaborn-lee](https://www.linkedin.com/in/seaborn-lee)
 

@@ -9,8 +9,7 @@
 
 - 🔭 I work as a freelance developer, and I also offer individual tech coaching.
 
-- 🌱 I’m currently learning [MIT MicroMasters Program in
-Finance](https://micromasters.mit.edu/fin/)
+- 🌱 I’m currently studying **Master of AI** at [University of Liverpool](https://www.liverpool.ac.uk/)
 
 - 📝 I regularly write articles on [https://timeline.waterlee.site](https://timeline.waterlee.site)
 

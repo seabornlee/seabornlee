@@ -9,7 +9,7 @@
 
 - 🔭 I work as a freelance developer, and I also offer individual tech coaching.
 
-- 🚀 I built [Lexis](https://lexis.waterlee.site) - AI-powered Chrome extension for Chinese learners
+- 🚀 I built [Lexis](https://lexis.waterlee.site) - AI-powered Chrome extension for language learners
 
 - 🌱 I’m currently studying **Master of AI** at [University of Liverpool](https://www.liverpool.ac.uk/)
 

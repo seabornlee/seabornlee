@@ -9,6 +9,8 @@
 
 - 🔭 I work as a freelance developer, and I also offer individual tech coaching.
 
+- 🚀 I built [Lexis](https://lexis.waterlee.site) - AI-powered Chrome extension for Chinese learners
+
 - 🌱 I’m currently studying **Master of AI** at [University of Liverpool](https://www.liverpool.ac.uk/)
 
 - 📝 I regularly write articles on [https://timeline.waterlee.site](https://timeline.waterlee.site)

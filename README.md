@@ -11,7 +11,9 @@
 
 - 🚀 I built [Lexis](https://lexis.waterlee.site) - AI-powered Chrome extension for language learners
 
-- 📖 I built [息言 Selah](https://selah.waterlee.site) — 安静的读经 App，免费、无广告、阅读无需注册
+### 最近在做
+
+- **[息言 Selah](https://selah.waterlee.site)** — 安静的读经 App。免费、无广告、阅读无需注册，笔记与划线只存在本机。66 卷和合本与 KJV，支持逐字拼音、交叉引用、后台听经。
 
 - 🌱 I’m currently studying **Master of AI** at [University of Liverpool](https://www.liverpool.ac.uk/)
 
